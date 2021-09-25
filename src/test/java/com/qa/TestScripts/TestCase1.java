@@ -16,6 +16,7 @@ public class TestCase1 {
 	//Added red cube
 	//made changes for creating branch
 	// made changes for further updating
+	//Separated snowman scene
 	//========================================================
 	@Test
 	public void testaddressbook() throws InterruptedException
