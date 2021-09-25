@@ -13,6 +13,7 @@ public class TestCase1 {
 	//========================================================
 	//Moved ground plane
 	//Made ground green
+	//Added red cube
 	//========================================================
 	@Test
 	public void testaddressbook() throws InterruptedException
