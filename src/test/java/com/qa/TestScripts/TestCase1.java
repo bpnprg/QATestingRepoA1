@@ -11,15 +11,8 @@ public class TestCase1 {
 	// Selenium code is written in JAVA methods
 	// testNG annotation to execute your method
 	//========================================================
-	//Moved ground plane
-	//Made ground green
-	//Added red cube
+	//master branch updated
 
-	//made changes in pt-car
-	//Checked car and renamed
-	//Changes in master - c1
-	//Changes in master - c2
-	//this is master branch
 	//========================================================
 	@Test
 	public void testaddressbook() throws InterruptedException
