@@ -11,15 +11,7 @@ public class TestCase1 {
 	// Selenium code is written in JAVA methods
 	// testNG annotation to execute your method
 	//========================================================
-	//Moved ground plane
-	//Made ground green
-	//Added red cube
-
-	//made changes in pt-car
-	//Checked car and renamed
-	//changes made for banch-work1
-	//changes made for banch-work1 - Chang1
-	//this is work1 branch
+	//work1 branch updated
 
 	//========================================================
 	@Test
